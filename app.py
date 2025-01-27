@@ -12,7 +12,7 @@ from groq import Groq
 
 # Initialize the embedding model and Groq client
 embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
-client = Groq(api_key=GROQ_API_KEY)
+client = Groq(api_key=os.getenv('GROQ_API_KEY'))
 
 
 # Helper functions for text extraction
