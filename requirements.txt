@@ -3,7 +3,6 @@ pdf2image
 pillow
 pytesseract
 python-docx
-json
 sentence-transformers
 scikit-learn
 streamlit
