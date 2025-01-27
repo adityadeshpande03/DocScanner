@@ -59,12 +59,4 @@ We welcome contributions! To get started:
 
 ---
 
-## 📧 Contact
-
-For questions or suggestions, feel free to reach out:
-
-- **Email**: [adi.desh1734@gmail.com](mailto:adi.desh1734@gmail.com)
-
----
-
 Made with ❤️ by Adi | [GitHub Repository](https://github.com/yourusername/docscanner)
